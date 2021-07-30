@@ -1,4 +1,4 @@
-## Hi there 👋  
+<!-- ## Hi there 👋  
   
 
 <div align="right">
@@ -22,9 +22,9 @@ I use Gitbook and GitHub to write about code manufacturing, devops, and algorith
 
 - 🌱 I’m currently learning kafka and Kubernetes  
 - 🌎 I luv clean code, that i do effort
-- 🏆 Goal for the year is getting Certification about AWS, Kubernetes
+- 🏆 Goal for the year is getting Certification about AWS, Kubernetes -->
 <!-- - 📖 [My GitBook](https://putstack-career.gitbook.io/wiki/) -->
-
+<!--
 <br/>  
 
 
@@ -76,6 +76,7 @@ I use Gitbook and GitHub to write about code manufacturing, devops, and algorith
 
 <br/>  
 
+-->
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
