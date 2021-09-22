@@ -79,9 +79,9 @@ I use Gitbook and GitHub to write about code manufacturing, devops, and algorith
 -->
 
 ## Github Stats  
-<table style="overflow: unset auto !important;"><tr><td valign="top" width="50%">
+<table style="display: inline;"><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=on-Sync&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=on-Sync&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 900%" />
 
 </td><td valign="top" width="50%">
 
