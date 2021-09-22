@@ -79,7 +79,7 @@ I use Gitbook and GitHub to write about code manufacturing, devops, and algorith
 -->
 
 ## Github Stats  
-<table style="overflow: unset;"><tr><td valign="top" width="50%">
+<table style="overflow: unset auto !important;"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=on-Sync&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
